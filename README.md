@@ -2,6 +2,7 @@
 
 <img src="https://gadgetren.com/wp-content/uploads/2022/01/Wordle-Feature.jpg" width="450" height="200">
 
+![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-c434a1a32b.gif)
 
 From wikipedia:
 
